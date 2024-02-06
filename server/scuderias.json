@@ -1,0 +1,345 @@
+{
+  "scuderias": [
+    {
+      "name": "Mclaren"
+    },
+    {
+      "name": "Mercedes"
+    },
+    {
+      "name": "Prost"
+    },
+    {
+      "name": "Sauber"
+    },
+    {
+      "name": "Jordan"
+    },
+    {
+      "name": "Williams"
+    },
+    {
+      "name": "BMW Sauber"
+    },
+    {
+      "name": "Renault"
+    },
+    {
+      "name": "Minardi"
+    },
+    {
+      "name": "Ferrari"
+    },
+    {
+      "name": "Alpine"
+    },
+    {
+      "name": "Lotus"
+    },
+    {
+      "name": "Caterham"
+    },
+    {
+      "name": "Toro Rosso"
+    },
+    {
+      "name": "Alfa Romeo"
+    },
+    {
+      "name": "Toyota"
+    },
+    {
+      "name": "Virgin"
+    },
+    {
+      "name": "Marussia"
+    },
+    {
+      "name": "BAR"
+    },
+    {
+      "name": "Super Aguri"
+    },
+    {
+      "name": "Red Bull"
+    },
+    {
+      "name": "Spyker"
+    },
+    {
+      "name": "Force India"
+    },
+    {
+      "name": "Porsche"
+    },
+    {
+      "name": "AMG"
+    },
+    {
+      "name": "Aston Martin"
+    },
+    {
+      "name": "Benetton"
+    },
+    {
+      "name": "Stewart"
+    },
+    {
+      "name": "Brawn"
+    },
+    {
+      "name": "Joest Racing"
+    },
+    {
+      "name": "Honda"
+    },
+    {
+      "name": "Peugeot"
+    },
+    {
+      "name": "Midland"
+    },
+    {
+      "name": "Hispania"
+    },
+    {
+      "name": "Jaguar"
+    },
+    {
+      "name": "HRT"
+    },
+    {
+      "name": "Courage Compétition"
+    },
+    {
+      "name": "DAMS"
+    },
+    {
+      "name": "Team Oreca"
+    },
+    {
+      "name": "Pescarolo Sport"
+    },
+    {
+      "name": "Arrows"
+    },
+    {
+      "name": "Ligier"
+    },
+    {
+      "name": "Simtek"
+    },
+    {
+      "name": "Footwork"
+    },
+    {
+      "name": "Tyrrell"
+    },
+    {
+      "name": "Forti"
+    },
+    {
+      "name": "Italia"
+    },
+    {
+      "name": "Brabham"
+    },
+    {
+      "name": "Lola"
+    },
+    {
+      "name": "ATS"
+    },
+    {
+      "name": "Coloni"
+    },
+    {
+      "name": "Osella"
+    },
+    {
+      "name": "Modena"
+    },
+    {
+      "name": "Larrousse"
+    },
+    {
+      "name": "Zakspeed"
+    },
+    {
+      "name": "Pacific"
+    },
+    {
+      "name": "AGS"
+    },
+    { "name": "EuroBrun" },
+    { "name": "Andrea Moda" },
+    { "name": "Leyton House" },
+    { "name": "March" },
+    { "name": "Onyx" },
+    { "name": "Rial" },
+    { "name": "Toleman" },
+    { "name": "Fondmetal" },
+
+    { "name": "RAM" },
+    { "name": "Shadow" },
+
+    { "name": "Ensign" },
+    { "name": "Theodore" },
+
+    { "name": "Spirit" },
+
+    { "name": "Life" },
+
+    { "name": "Haas" },
+
+    { "name": "Hesketh" },
+
+    { "name": "Martini" },
+    { "name": "Surtees" },
+    { "name": "Iso-Marlboro" },
+
+    { "name": "Wolf" },
+    { "name": "Fittipaldi" },
+
+    { "name": "Hill" },
+
+    { "name": "BRM" },
+    { "name": "Penske" },
+
+    { "name": "Boro" },
+    { "name": "Parnelli" },
+    { "name": "Rebaque" },
+
+    { "name": "Brands Hatch" },
+    { "name": "Iso–Marlboro" },
+    { "name": "Wolf–Williams" },
+    { "name": "Merzario" },
+    { "name": "Kauhsen" },
+    { "name": "Cooper" },
+    { "name": "BS" },
+
+    { "name": "ShellSport" },
+    { "name": "Eifelland" },
+    { "name": "Maki" },
+    { "name": "Truesports" },
+    { "name": "Kraco" },
+    { "name": "Galles-Kraco" },
+    { "name": "Rahal-Hogan" },
+    { "name": "Team Rahal" },
+    { "name": "Gunston" },
+    { "name": "Lexington" },
+    { "name": "Token" },
+    { "name": "Amon" },
+
+    { "name": "LEC" },
+
+    { "name": "McGuire" },
+
+    { "name": "Jolly Club" },
+    { "name": "Heros Racing" },
+    { "name": "Kojima" },
+    { "name": "Reg Parnell" },
+    { "name": "Ian Raby" },
+
+    { "name": "Matra" },
+    { "name": "Tecno" },
+    { "name": "Wolf-Williams" },
+    { "name": "Mapfre" },
+
+    { "name": "Connew" },
+    { "name": "S.A.N" },
+    { "name": "Lyncar" },
+
+    { "name": "Trojan" },
+    { "name": "Scuderia Finotto" },
+    { "name": "AAW" },
+    { "name": "Finotto" },
+    { "name": "LDS" },
+    { "name": "Frank Williams Racing Cars" },
+    { "name": "Team" },
+
+    { "name": "NART" },
+    { "name": "Rob Walker" },
+    { "name": "Maserati" },
+    { "name": "Centro Sud" },
+    { "name": "Bonnier" },
+
+    { "name": "Bellasi" },
+    { "name": "Rob Walker Racing Team" },
+
+    { "name": "Eagle" },
+    { "name": "De Tomaso" },
+    { "name": "Alfa Special" },
+    { "name": "Reg Parnell Racing" },
+    { "name": "Castrol" },
+    { "name": "Anglo American Racers" },
+    { "name": "ENB" },
+    { "name": "UDT Laystall" },
+    { "name": "Scuderia Centro Sud" },
+    { "name": "Centro Sud" },
+    { "name": "DW Racing Enterprises" },
+
+    { "name": "Scarab" },
+    { "name": "Fry" },
+    { "name": "Protos" },
+    { "name": "Automobili Turismo e Sport" },
+
+    { "name": "North American Racing Team" },
+    { "name": "non-works BRM" },
+    { "name": "Bob Gerard Racing" },
+    { "name": "Ace Garage" },
+    { "name": "BRP" },
+    { "name": "Shannon" },
+
+    { "name": "Yeoman" },
+    { "name": "Filipinetti" },
+
+    { "name": "RE" },
+    { "name": "Camoradi" },
+    { "name": "UDT" },
+    { "name": "Gilby" },
+    { "name": "BMW" },
+
+    { "name": "Gordini" },
+    { "name": "Rosier" },
+    { "name": "Vanwall" },
+    { "name": "Bugatti" },
+    { "name": "Serenissima" },
+    { "name": "Ecurie Maarsbergen" },
+    { "name": "Scuderia Ugolini" },
+    { "name": "EMW" },
+    { "name": "Derrington-Francis" },
+
+    { "name": "Scirocco" },
+    { "name": "Emeryson" },
+
+    { "name": "Stebro" },
+    { "name": "Kurtis Kraft" },
+    { "name": "Lesovsky" },
+    { "name": "Watson" },
+    { "name": "Bromme" },
+    { "name": "Pawl" },
+    { "name": "Kuzma" },
+    { "name": "Canadian Stebro Racing" },
+
+    { "name": "Veritas" },
+    { "name": "Connaught" },
+    { "name": "Porsche System Engineering" },
+    { "name": "Racing Team Holland" },
+    { "name": "Auguste Vaillet" },
+    { "name": "MZ" },
+    { "name": "MV Agusta" },
+
+    { "name": "HWM" },
+    { "name": "JBW" },
+
+    { "name": "Ferguson" },
+    { "name": "MBM" },
+    { "name": "Benelli" },
+    { "name": "Gilera" },
+    { "name": "Norton" },
+    { "name": "NSU" },
+
+    { "name": "Talbot-Lago" }
+  ]
+}
